@@ -1,6 +1,6 @@
 ---
-name: lark-attendance
-description: "Use this skill whenever the user wants to query, view, or analyze Lark/Feishu attendance records (打卡记录). Triggers include: '打卡', '考勤', 'attendance', '签到记录', '上下班时间', '工作时长'. Do NOT use for non-attendance Lark operations like calendar, IM, docs, etc."
+name: lark-attendance-visual
+description: "Visualized Lark/Feishu attendance query: formatted summary tables and dark-theme trend charts. Use when the user wants to query and visualize attendance records (打卡记录) — triggers: '打卡', '考勤', 'attendance', '签到记录', '上下班时间', '工作时长', '考勤图表', '考勤报告'. Prefer this over lark-attendance when tables, charts, or reports are wanted. Do NOT use for non-attendance Lark operations like calendar, IM, docs, etc."
 ---
 
 # Lark/Feishu Attendance Record Query
